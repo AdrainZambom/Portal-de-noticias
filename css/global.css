@@ -48,11 +48,7 @@ h1, h2, h3{
     margin-inline: auto;
 }
 
-/*UTILITY FIRST*/
-.grid {
-    display: grid;
+img{
+    max-width: 100%;
 }
 
-.grid-flow-col{
-    grid-auto-flow: column;
-}
