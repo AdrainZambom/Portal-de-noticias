@@ -48,6 +48,10 @@ h1, h2, h3{
     margin-inline: auto;
 }
 
+main{
+    margin-top: 40px;
+}
+
 img{
     max-width: 100%;
 }
